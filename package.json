@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mainekwok97/testing.git"
+    "url": "git+https://github.com/mainekwok97/testing2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mainekwok97/testing/issues"
+    "url": "https://github.com/mainekwok97/testing2/issues"
   },
-  "homepage": "https://github.com/mainekwok97/testing#readme",
+  "homepage": "https://github.com/mainekwok97/testing2#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.3"
   }
 }
